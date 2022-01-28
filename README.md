@@ -2,7 +2,7 @@
 
 ### Background 
 
-This month, the federal government launched a program offering free at-home COVID-19 tests. Every household is eligible for four tests. But, data from the U.S. Census estimates that nearly 12 million households have more than 4 people – and, poorer neighborhoods tend to have more households with more than 4 people. 
+This month, the federal government launched a program offering free at-home COVID-19 tests. Every household is eligible for four tests. But, data from the U.S. Census estimates that nearly 12 million households have more than 4 people – and, poorer neighborhoods or neighborhoods of color tend to have more households with more than 4 people. 
 
 ### Sourcing & Language 
 
